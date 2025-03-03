@@ -2,7 +2,7 @@
 filename="/home/cp/temperatur1.rrd"
 rrdtool graph temperatur1.png \
 	--imgformat 'PNG' \
-	--width 640 \
+	--width 650 \
 	--height 100 \
 	--start -1hour \
 	--end now \
